@@ -1,0 +1,2 @@
+NODE_ENV=production
+JWT_SECRET=4de1aea25797fdfe82178ae6825eadd2ef1779f75da987e9ae5081c9aef5aaf1
