@@ -6,7 +6,7 @@
 
 **IP сервера:** 158.160.30.149
 
-**Бэкенд:** [https://api.petyamasol-movie.nomoredomains.rocks](https://api.petyamsol-movie.nomoredomains.rocks)
+**Бэкенд:** [https://api.petyamasol-movie.nomoredomains.rocks](https://api.petyamasol-movie.nomoredomains.rocks)
 
 ## Инструкции по запуску проекта
 
