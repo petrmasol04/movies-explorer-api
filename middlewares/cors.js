@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://petyamasol-movie.nomoredomains.monster',
-  'http://petyamasol-movie.nomoredomains.monster',
+  'https://petyamasol-movie.nomoredomains.rocks',
+  'http://petyamasol-movie.nomoredomains.rocks',
   'https://localhost:3000',
   'http://localhost:3000',
 ];
