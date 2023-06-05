@@ -1,7 +1,7 @@
 const allowedCors = [
-  'https://mesto.world.nomoredomains.monster',
-  'http://mesto.world.nomoredomains.monster',
-  'http://localhost:3001',
+  'https://petyamasol-movie.nomoredomains.monster',
+  'http://petyamasol-movie.nomoredomains.monster',
+  'https://localhost:3000',
   'http://localhost:3000',
 ];
 
