@@ -1,8 +1,9 @@
 const allowedCors = [
-  'https://petyamasol-movie.nomoredomains.rocks',
-  'http://petyamasol-movie.nomoredomains.rocks',
+  'https://movies-diplomnaya.nomoredomainsrocks.ru',
+  'http://movies-diplomnaya.nomoredomainsrocks.ru',
   'https://localhost:3000',
   'http://localhost:3000',
+  'http://localhost:3001',
 ];
 
 const DEFAULT_ALLOWED_METHODS = 'GET,HEAD,PUT,PATCH,POST,DELETE';
